@@ -4,7 +4,7 @@ enisfr
 ## Purpose
 This Spring Boot application is developed for simple foreign currency exchanges.
 
-##Libraries Used
+## Libraries Used
 -   Spring Boot 2.4.5
 -   H2
 -   JPA    
