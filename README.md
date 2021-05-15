@@ -8,6 +8,7 @@ This Spring Boot application is developed for simple foreign currency exchanges.
 -   Spring Boot 2.4.5
 -   H2
 -   JPA    
+-   JUnit5
 -   Lombok
 -   ModelMapper
 -   Feign Client
