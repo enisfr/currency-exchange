@@ -17,5 +17,6 @@ This Spring Boot application is developed for simple foreign currency exchanges.
 http://localhost:8080/swagger-ui/
 
 ## Running Docker Image
+- docker pull enisfr/currency-exchange:latest
 - docker run -it -p8080:8080 enisfr/currency-exchange:latest
 
